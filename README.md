@@ -1,5 +1,6 @@
 
 Bowling Challenge
+ [![Build Status](https://travis-ci.org/OctavianRotari/bowling-challenge.svg?branch=master)](https://travis-ci.org/OctavianRotari/bowling-challenge)
 =================
 
     Test time: Friday, the entire day and the entire of lab week if you need it.
