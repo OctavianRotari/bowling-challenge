@@ -1,5 +1,5 @@
 function Game(){
-  this.score = 0;
+  this.score = -1;
   this.scoreArray = [];
   this.MAXPOINTS = 10;
   this.bonusPoints = 0;
@@ -18,7 +18,7 @@ function Game(){
 }
 
 Game.prototype.calcScore = function(){
-  var total = 0;
+  var total = 0; 
   for(var i in this.scoreArray) {
     if(this.scoreArray[i] !== true ){
       total += this.scoreArray[i];
