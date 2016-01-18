@@ -11,9 +11,11 @@ This challenge was solved using a TDD approach to build the logic, but I also de
 
 ##Usage 
 
-git clone https://github.com/thisdotrob/bowling-challenge.git
+0. ```git clone https://github.com/thisdotrob/bowling-challenge.git```
 
-To see the test: open SpecRunner.html
+0. ```To see the test: open SpecRunner.html```
+
+
 
 
 ## Bowling rules
