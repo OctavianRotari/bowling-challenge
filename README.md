@@ -7,7 +7,7 @@ Bowling Challenge
 
 This one was one of the challenges that I liked the most because of the logic behind it and also because it I didn't know the rules of bowling and this challenge helped me to understand them.
 
-This challenge was solved using a TDD approach to build the logic, but I also decided to implement the front end which is still in progress due to the lack of time.
+This challenge was solved using a TDD approach to build the logic, but I also decided to implement the front end which is still in progress due to the lack of time and of course this challenge need further refactoring to make it shiny.
 
 ##Usage 
 
